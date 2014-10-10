@@ -41,3 +41,25 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.manifest
+*.idb
+*.dep
+*.htm
+*.ncb
+*.suo
+*.user
+Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_CentralWidget.cpp
+Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_MainWindow.cpp
+Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_PageDebugging.cpp
+Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_PageFilter.cpp
+Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_PageIndirectLight.cpp
+Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_PageScene.cpp
+Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_PageToneMapping.cpp
+Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_QSfmlWidget.cpp
+Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_Settings.cpp
+Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_SfmlView.cpp
