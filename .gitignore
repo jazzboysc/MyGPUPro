@@ -53,13 +53,5 @@ Temporary Items
 *.ncb
 *.suo
 *.user
-Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_CentralWidget.cpp
-Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_MainWindow.cpp
-Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_PageDebugging.cpp
-Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_PageFilter.cpp
-Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_PageIndirectLight.cpp
-Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_PageScene.cpp
-Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_PageToneMapping.cpp
-Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_QSfmlWidget.cpp
-Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_Settings.cpp
-Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/moc_SfmlView.cpp
+Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Debug/*.*
+Real-time Near-field Global Illumiantion based on a Voxel Model/GeneratedFiles/Release/*.*
