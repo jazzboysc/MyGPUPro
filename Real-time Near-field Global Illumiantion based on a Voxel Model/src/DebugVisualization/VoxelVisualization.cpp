@@ -458,7 +458,7 @@ void VoxelVisualization::drawVoxelsAsCubesInstanced(GLuint voxelTexture,
    V(glDrawArraysInstancedARB(GL_QUADS, 0, 24, mNumVoxels));
    glDisableClientState(GL_COLOR_ARRAY);
    glColor4f(0, 0, 0, 1);
-   V(glDrawArraysInstancedARB(GL_LINES, 0, 24, mNumVoxels));
+   //V(glDrawArraysInstancedARB(GL_LINES, 0, 24, mNumVoxels));
    glPopMatrix();
    glDisable(GL_CULL_FACE);
 

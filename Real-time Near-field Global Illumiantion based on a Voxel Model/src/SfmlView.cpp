@@ -615,29 +615,29 @@ void SfmlView::drawVoxelCubes()
    
    if(withLighting)
    {
-      glEnable(GL_LIGHTING);
-      glEnable(GL_LIGHT2);
-      glEnable(GL_LIGHT3);
-      glEnable(GL_LIGHT4);
-      glEnable(GL_LIGHT5);
-      glEnable(GL_LIGHT6);
-      glEnable(GL_LIGHT7);
-      glLightfv(GL_LIGHT5, GL_DIFFUSE, &glm::vec4(0.6, 0.6, 0.6, 1)[0]);
-      glLightfv(GL_LIGHT5, GL_POSITION, &glm::vec4(1, 0, 0, 0)[0]);
-      glLightfv(GL_LIGHT6, GL_DIFFUSE, &glm::vec4(0.4, 0.4, 0.4, 1)[0]);
-      glLightfv(GL_LIGHT6, GL_POSITION, &glm::vec4(0, 1, 0, 0)[0]);
-      glLightfv(GL_LIGHT7, GL_DIFFUSE, &glm::vec4(0.3, 0.3, 0.3, 1)[0]);
-      glLightfv(GL_LIGHT7, GL_POSITION, &glm::vec4(0, 0, 1, 0)[0]);
+      //glEnable(GL_LIGHTING);
+      //glEnable(GL_LIGHT2);
+      //glEnable(GL_LIGHT3);
+      //glEnable(GL_LIGHT4);
+      //glEnable(GL_LIGHT5);
+      //glEnable(GL_LIGHT6);
+      //glEnable(GL_LIGHT7);
+      //glLightfv(GL_LIGHT5, GL_DIFFUSE, &glm::vec4(0.6, 0.6, 0.6, 1)[0]);
+      //glLightfv(GL_LIGHT5, GL_POSITION, &glm::vec4(1, 0, 0, 0)[0]);
+      //glLightfv(GL_LIGHT6, GL_DIFFUSE, &glm::vec4(0.4, 0.4, 0.4, 1)[0]);
+      //glLightfv(GL_LIGHT6, GL_POSITION, &glm::vec4(0, 1, 0, 0)[0]);
+      //glLightfv(GL_LIGHT7, GL_DIFFUSE, &glm::vec4(0.3, 0.3, 0.3, 1)[0]);
+      //glLightfv(GL_LIGHT7, GL_POSITION, &glm::vec4(0, 0, 1, 0)[0]);
 
-      glLightfv(GL_LIGHT2, GL_DIFFUSE, &glm::vec4(0.2, 0.2, 0.2, 1)[0]);
-      glLightfv(GL_LIGHT2, GL_POSITION, &glm::vec4(-1, 0, 0, 0)[0]);
-      glLightfv(GL_LIGHT3, GL_DIFFUSE, &glm::vec4(0.3, 0.3, 0.3, 1)[0]);
-      glLightfv(GL_LIGHT3, GL_POSITION, &glm::vec4(0, -1, 0, 0)[0]);
-      glLightfv(GL_LIGHT4, GL_DIFFUSE, &glm::vec4(0.4, 0.4, 0.4, 1)[0]);
-      glLightfv(GL_LIGHT4, GL_POSITION, &glm::vec4(0, 0, -1, 0)[0]);
+      //glLightfv(GL_LIGHT2, GL_DIFFUSE, &glm::vec4(0.2, 0.2, 0.2, 1)[0]);
+      //glLightfv(GL_LIGHT2, GL_POSITION, &glm::vec4(-1, 0, 0, 0)[0]);
+      //glLightfv(GL_LIGHT3, GL_DIFFUSE, &glm::vec4(0.3, 0.3, 0.3, 1)[0]);
+      //glLightfv(GL_LIGHT3, GL_POSITION, &glm::vec4(0, -1, 0, 0)[0]);
+      //glLightfv(GL_LIGHT4, GL_DIFFUSE, &glm::vec4(0.4, 0.4, 0.4, 1)[0]);
+      //glLightfv(GL_LIGHT4, GL_POSITION, &glm::vec4(0, 0, -1, 0)[0]);
 
-      glEnable(GL_COLOR_MATERIAL);
-      glColor3f(0.8f, 0.8f, 0.8f);
+      //glEnable(GL_COLOR_MATERIAL);
+      //glColor3f(0.8f, 0.8f, 0.8f);
    }
    else
    {
